@@ -1,6 +1,6 @@
 
 // For Set Server Id.............
 
-export const ENDPOINT="http://localhost:3001/";
+export const ENDPOINT="https://social-backend-32b0.onrender.com/";
 
 
